@@ -1,0 +1,8 @@
+fastapi==0.136.1
+uvicorn==0.46.0
+python-multipart==0.0.28
+pydantic==2.13.4
+google-generativeai
+python-dotenv
+requests
+beautifulsoup4
